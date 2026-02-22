@@ -9,7 +9,7 @@ A Deque allows insertion and deletion from **both ends**:
 
 This implementation uses a **circular array** to efficiently utilize memory.
 
----
+--
 
  Source Code
 
